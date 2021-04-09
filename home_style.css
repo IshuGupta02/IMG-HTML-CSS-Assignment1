@@ -867,4 +867,25 @@ a{
     box-sizing: border-box;
 }
 
+.topic_of_goto{
+    color: #000000;
+    font-family: 'Playfair Display';
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.desc_of_goto{
+    color: #999999;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 1em;
+}
+
+.num{
+    font-size: 10em;
+}
+#viewmore, #blog1{
+    font-family: 'Bebas Neue', cursive;
+    font-size:1em;
+}
     
