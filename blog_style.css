@@ -1,0 +1,112 @@
+body{
+    font-size: 1vw;
+
+}
+
+.complete-webpage{
+
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    height: 3.5em;
+    fill: #f8d16c;
+
+}
+header{
+
+    width:100vw;
+    display:flex;
+    flex-direction: row;
+    /* position: fixed; */
+    justify-self: flex-start;
+
+
+
+}
+header div.header_left{
+    width:50vw;
+    display:flex;
+    flex-direction: row;
+    justify-self: flex-start;
+
+
+}
+
+header div.navigation{
+
+    width:50vw;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+}
+
+.blogs{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+    width: 100vw;
+    height:80vh ;
+    /* padding:1vh ;
+    margin: 1vw; */
+
+   
+}
+
+.blog{
+    border: 2px solid black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    width: 15vw;
+    height:40vh ;
+    padding: 2rem;
+    margin:1rem ;
+    
+
+}
+
+.blog:hover{
+
+
+
+}
+
+.image{
+    height:25vh ;
+    width: 15vw;
+    margin:2rem ;
+
+}
+.topic{
+    font-size:1.2em ;
+    font-weight: 700;
+    height: 5vh;
+    margin:2rem ;
+
+}
+.author{
+    height:5vh ;
+    margin:2rem ;
+    font-size:0.8em ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+
+button{
+    background: transparent;
+    border: none;
+}
+
+#BLOG-category{
+    border-bottom: 4px solid black;
+}
