@@ -696,11 +696,7 @@ a{
         /* border:2px solid black; */
     
     }
-    a#blog_button_border {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
+    
 
     #hamburger{
         display:none;
