@@ -927,3 +927,7 @@ a{
      .social-media-icon{
         margin-right: 0.4rem;
      }
+
+     .section1, .section2, .section3, .section4, .section5{
+         width: 100%;
+     }
