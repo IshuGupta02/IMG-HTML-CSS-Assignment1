@@ -916,3 +916,14 @@ a{
      #blog1, #viewmore{
          text-align: center;
      }
+
+     #icons-social-media{
+         margin-top: 1rem;
+         width: fit-content;
+         max-width: 100%;
+     }
+
+    
+     .social-media-icon{
+        margin-right: 0.4rem;
+     }
