@@ -628,11 +628,34 @@ p{
     width: 100%;
     height: 2rem;
     bottom: 0;
+    
 
 }
 
 .medium{
     margin-bottom: 4rem;
+   
+
+}
+
+#footer{
+    
+    max-width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 0;
+    overflow:hidden;
+
+}
+
+.medium{
+   
+    max-width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
 
 }
 

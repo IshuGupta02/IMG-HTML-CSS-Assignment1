@@ -185,7 +185,7 @@ a{
 
     color: rgba(248, 209, 108, 0.5);
     font-size: 8em;
-    font-family: 'TypoPRO Bebas Neue';
+    font-family: 'Bebas Neue', cursive;
     user-select: none;
 }
 
@@ -884,9 +884,35 @@ a{
 
 .num{
     font-size: 10em;
+    font-family: 'Bebas Neue', cursive;
+    
 }
 #viewmore, #blog1{
     font-family: 'Bebas Neue', cursive;
     font-size:1em;
 }
-    
+/* #num1{
+    font-family: 'Bebas Neue', cursive;
+
+}
+     */
+
+     .explore{
+         /* word-spacing: 1rem; */
+         letter-spacing: 0.1rem;
+        word-spacing: 0.3rem;
+
+         /* display: flex; */
+         /* align-items: center; */
+         /* justify-content: center; */
+
+         text-align: center;
+
+         display: inline-block;
+        padding: 0.5em 1em;
+        font-size: 2rem;
+
+     }
+     #blog1, #viewmore{
+         text-align: center;
+     }
