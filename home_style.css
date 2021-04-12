@@ -934,5 +934,14 @@ a{
      .section1, .section2, .section3, .section4, .section5{
          width: 100%;
      }
+
+     @media screen and (max-width:1023px) {
+        .blog_sec2_p{
+            font-size: 13px;
+        }
+     
+    
+    
+    }
      
      
