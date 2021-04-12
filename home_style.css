@@ -22,6 +22,8 @@
 .top_fixed_logo{
     /* margin-left: 10vw; */
     width: 50vw;
+    display: flex;
+    align-items: center;
 
     /* border:2px solid black; */
    
