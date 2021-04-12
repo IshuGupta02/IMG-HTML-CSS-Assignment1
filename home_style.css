@@ -939,6 +939,39 @@ a{
         .blog_sec2_p{
             font-size: 13px;
         }
+
+        .about_info {
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            margin-right: 0;
+        }
+
+        .section_3_sec2{
+            display: flex;
+            flex-direction: column;
+            /* align-content: center; */
+            width: 100%;
+            height: auto;
+            /* justify-content: space-between; */
+            align-items: center;
+            /* padding-left: 10vw; */
+            /* padding-right: 10vw; */
+            box-sizing: border-box;
+    
+            
+        }
+
+        .goto{
+            display: flex;
+            flex-direction: column;
+            /* flex-wrap: wrap; */
+            /* align-items: stretch; */
+            /* margin: 2rem; */
+            align-items: stretch;
+            margin: 0;
+        
+        
+        }
      
     
     
