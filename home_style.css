@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@900&display=swap');
 
 .top_fixed{
     display: flex;
@@ -119,6 +120,7 @@ h2{
     margin: 0.5em 0 0.5em 0;
     border-bottom: 0.2em #f8d16c solid;
     width:fit-content;
+    font-family: 'Playfair Display SC', serif;
 
 
 }
@@ -389,7 +391,7 @@ a{
 
     .top_fixed_logo_icon{
         
-        height: 4vh;
+        height: 2rem;
         margin-top:3vh ;
         margin-bottom:3vh ;
 
@@ -653,7 +655,7 @@ a{
 
     .top_fixed_logo_icon{
         
-        height: 4vh;
+        height: 2rem;
     margin-top: 1vh;
     margin-bottom: 2vh;
     margin-left: 10vw;
